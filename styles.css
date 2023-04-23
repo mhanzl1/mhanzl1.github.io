@@ -180,7 +180,7 @@
     height: 90vh;
     background-color: #030e13;
     background-image: linear-gradient(
-        to bottom, transparent, #030e13), url("/blob/main/background2.jpg");
+        to bottom, transparent, #030e13), url("/images/background2.jpg");
     
     background-size: 1450px 800px;
     z-index: 1;
